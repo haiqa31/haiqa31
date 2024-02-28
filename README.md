@@ -1,4 +1,4 @@
-
+![logo](https://github.com/haiqa31/haiqa31/blob/main/Blue%20Modern%20Artificial%20Intelligence%20Technology%20Logo.png)
 <h1 align="center">Hi 👋, I'm Haiqa khan</h1>
 <h3 align="center">A passionate student of Artificial student from Pakistan</h3>
 
